@@ -9,6 +9,10 @@
   "author": {
     "name": "Carlos Rodriguez"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rwkama1/CRUDMongodb"
+  },
   "license": "MIT",
   "keywords": [
     "backend",
