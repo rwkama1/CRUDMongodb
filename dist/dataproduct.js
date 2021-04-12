@@ -82,7 +82,7 @@ DataProduct.getInstance = () => {
     }
     return DataProduct.instancia;
 };
-var pr = new product_1.DTProduct(0, "asfgsag", 6655);
+// var pr = new DTProduct(0, "asfgsag", 6655);
 // DataProduct.getInstance().addProduct(pr).then(datad1 => {
 //    console.log(datad1);
 // })
@@ -95,7 +95,7 @@ var pr = new product_1.DTProduct(0, "asfgsag", 6655);
 // DataProduct.getInstance().deleteProduct(pr).then(datad1 => {
 //    console.log(datad1);
 // })
-DataProduct.getInstance().updateProduct(pr).then(datad1 => {
-    console.log(datad1);
-});
+// DataProduct.getInstance().updateProduct(pr).then(datad1 => {
+//    console.log(datad1);
+// })
 //# sourceMappingURL=dataproduct.js.map

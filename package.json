@@ -9,6 +9,7 @@
   "author": {
     "name": "Carlos Rodriguez"
   },
+  "license": "MIT",
   "keywords": [
     "backend",
     "ts",
